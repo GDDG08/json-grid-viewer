@@ -13,3 +13,6 @@ To open a json file in the grid viewer, right click the file, select *Open With.
 ## To do:
 - Add editing capabilities
 - Take colours from the active theme
+
+## ChangeLog
+- 0.1.1 change white blank style in data table, to show `\n` correctly.

@@ -31,6 +31,7 @@ td, th {
 }
 td.member, th.key, td.element, td.value {
   border: 1px solid var(--vscode-editor-foreground);
+  white-space: pre-wrap;
 }
 .index, .collapsed {
   white-space: nowrap;
